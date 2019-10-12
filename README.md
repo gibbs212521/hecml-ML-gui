@@ -3,10 +3,15 @@ Open Source Educational GUI for Machine Learning
 
 NOTUM BONUM:
   Directed Acyclical Graph: 
+  
       maths   <---  algorithms  <---   gui  <---  tests
+      
             OR
+            
       maths   <---  algorithms  <---  tests
+      
             OR
+            
       maths   <---  tests
   
   Nothing should ever import tests except other tests.
