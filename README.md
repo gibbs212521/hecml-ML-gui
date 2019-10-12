@@ -12,6 +12,10 @@ NOTUM BONUM:
       
             OR
             
+      maths   <---  gui  <---  tests
+      
+            OR
+            
       maths   <---  tests
   
   Nothing should ever import tests except other tests.
